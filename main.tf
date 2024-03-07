@@ -1,4 +1,4 @@
-# Declare PAN-OS Terraform provider, with a version constraint
+# Declare PAN-OS Terraform provider, with a version constraint test
 
 terraform {
   required_providers {
